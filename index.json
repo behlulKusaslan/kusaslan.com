@@ -1,10 +1,40 @@
 {
-  "strings": [
-    "en": [
-      "runtime": "es_MX texto"
-    ],
-    "tr": [
-      "runtime": "en string"
+    "strings": [
+        {
+            "tr": [
+                {
+                    "Common_AppName": "InstaZoom",
+                    "Common_Cancel": "Cancel",
+                    "Common_Delete": "Delete",
+                    "Common_emptyViewTitle": "Nothing to See Here!",
+                    "Common_emptyViewDescription": "Let’s start stalking some awesome high resolution profile photos!",
+                    "Common_searchButton": "Search",
+                    "Favorite_Title": "Favorites",
+                    "Home_Title": "Discover",
+                    "Home_SearchPlaceholder": "Search on Instagram",
+                    "Home_NoNetworkTitle": "Please connect to a network",
+                    "Home_NoNetworkDescription": "There is no internet connection",
+                    "settings_title": "Settings",
+                    "settings_generalTitle": "General",
+                    "settings_rateTitle": "Rate",
+                    "settings_rateDescription": "Rate Our App On Appstore",
+                    "settings_feedbackTitle": "Feedback",
+                    "settings_feedbackDescription": "Give us a Feedback or report a issue",
+                    "settings_privacyTitle": "Privacy",
+                    "settings_clearTitle": "Clear",
+                    "settings_clearDescription": "Clear previous search history",
+                    "settings_infoTitle": "Info",
+                    "settings_buildVersionTitle": "Version",
+                    "settings_deleteAlertMessage": "Do you want to clear your discover history?"
+                }
+            ],
+            "en": [
+                {
+                    "settings_infoTitle": "Info",
+                    "settings_buildVersionTitle": "Version",
+                    "settings_deleteAlertMessage": "Do you want to clear your discover history?"
+                }
+            ]
+        }
     ]
-  ]
 }
